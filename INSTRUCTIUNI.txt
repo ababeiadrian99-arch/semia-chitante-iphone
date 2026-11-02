@@ -1,0 +1,8 @@
+SEMIA Chitanțe pentru iPhone (PWA)
+
+1. Încarcă TOATE fișierele din acest folder în rădăcina unui site HTTPS (ex. GitHub Pages).
+2. Deschide adresa site-ului în Safari pe iPhone.
+3. Partajare > Adaugă pe ecranul principal.
+4. Selectează PDF din Fișiere, convertește și partajează PDF-ul.
+
+IMPORTANT: deschiderea index.html direct din Fișiere NU instalează aplicația. POSPrinter-BT poate sau nu să accepte PDF-uri din meniul de partajare. Bibliotecile PDF se încarcă prin internet.
